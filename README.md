@@ -4,7 +4,7 @@ Submitted by: Kayla Sison
 
 "Sea Monster Games" is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 3 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,17 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] 
+* [x] Game cards change size slightly on hover
+* [x] Filter buttons change text format on hover
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='localhost_5500-GoogleChrome2025-01-1210-57-40-ezgif.com-video-to-gif-converter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with:
+ezgif.com
 
 ## Notes
 

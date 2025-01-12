@@ -66,6 +66,7 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    width: 305px;
 }
 
 #button-container {
@@ -82,4 +83,6 @@ button {
 
 #unfunded-btn:hover, #funded-btn:hover, #all-btn:hover {
     cursor: pointer;
+    font-weight: bold;
+    font-style: oblique;
 }
